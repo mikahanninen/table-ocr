@@ -1,0 +1,128 @@
+[
+    {
+        "Date": "1/15/2023",
+        "Payee": "Declutter Cleaning Inc",
+        "Category": "Fees & Charges:Service Fee",
+        "Amount": "“85 76",
+        "Balance": "-2 147 03",
+        "x": 612,
+        "y": 62
+    },
+    {
+        "Date": "1/14/2023",
+        "Payee": "Robocorp",
+        "Category": "Fees & Charges:Service Fee",
+        "Amount": "-49 99",
+        "Balance": "-2,061 of",
+        "x": 612,
+        "y": 87
+    },
+    {
+        "Date": "1/13/2023",
+        "Payee": "Baskin Robbins",
+        "Category": "Food & Dining:Restaurants",
+        "Amount": "-12 00",
+        "Balance": "-2,011 28",
+        "x": 612,
+        "y": 112
+    },
+    {
+        "Date": "1/12/2023",
+        "Payee": "Dahlia's Café",
+        "Category": "Food & Dining:Restaurants",
+        "Amount": "-98 45",
+        "Balance": "-1,999 28",
+        "x": 612,
+        "y": 137
+    },
+    {
+        "Date": "1/11/2023",
+        "Payee": "Kinkos",
+        "Category": "Office Supplies",
+        "Amount": "230 18",
+        "Balance": "-1,900 83",
+        "x": 612,
+        "y": 162
+    },
+    {
+        "Date": "1/10/2023",
+        "Payee": "spectrum",
+        "Category": "Bills & Utilities:Internet",
+        "Amount": "-100 43",
+        "Balance": "“2.131 O1",
+        "x": 611,
+        "y": 187
+    },
+    {
+        "Date": "1/9/2023",
+        "Payee": "Marriott",
+        "Category": "Travel:Hotel",
+        "Amount": "“565 22",
+        "Balance": "-2,030 58",
+        "x": 612,
+        "y": 212
+    },
+    {
+        "Date": "1/8/2023",
+        "Payee": "ABC Liquor",
+        "Category": "Food & Dining:Groceries",
+        "Amount": "-125 98",
+        "Balance": "-1,465 36",
+        "x": 612,
+        "y": 237
+    },
+    {
+        "Date": "1/7/2023",
+        "Payee": "The CPA People",
+        "Category": "Financial advisor",
+        "Amount": "-250 00",
+        "Balance": "-1,339 38",
+        "x": 612,
+        "y": 262
+    },
+    {
+        "Date": "1/6/2023",
+        "Payee": "AMC Movie",
+        "Category": "Entertainment",
+        "Amount": "-30 00",
+        "Balance": "-1,089 38",
+        "x": 612,
+        "y": 287
+    },
+    {
+        "Date": "1/5/2023",
+        "Payee": "Bank Of America",
+        "Category": "bank fee",
+        "Amount": "-15 23",
+        "Balance": "-1,059 38",
+        "x": 612,
+        "y": 312
+    },
+    {
+        "Date": "1/4/2023",
+        "Payee": "Bank Of America",
+        "Category": "bank fee",
+        "Amount": "-3 54",
+        "Balance": "-1,044 15",
+        "x": 612,
+        "y": 337
+    },
+    {
+        "Date": "1/3/2023",
+        "Payee": "American Airlines",
+        "Category": "Air Travel",
+        "Amount": "“540 23",
+        "Balance": "-1,040 61",
+        "x": 611,
+        "y": 362
+    },
+    {
+        "Date": "1/2/2023",
+        "Payee": "Advertisers R Us",
+        "Category": "Advertising",
+        "Amount": "-500 35",
+        "Balance": "-500 35",
+        "x": 612,
+        "y": 387
+    }
+]
