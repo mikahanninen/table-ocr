@@ -442,8 +442,7 @@ def ocr_table(
                 radius = 3
                 left_up_point = (column["x"] - radius, column["y"] - radius)
                 right_down_point = (column["x"] + radius, column["y"] + radius)
-                if configuration.show_post_recognition_image:
-                    draw.ellipse([left_up_point, right_down_point], fill="black")
+                draw.ellipse([left_up_point, right_down_point], fill="black")
 
             print(f"column_name:{column_name} column_text:{column['text']}")
 
